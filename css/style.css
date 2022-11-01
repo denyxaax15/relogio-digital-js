@@ -1,0 +1,15 @@
+body {
+    background: #191919
+}
+
+#relogio{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #14859e;
+    font-family: Orbitron;
+    font-size: 10em;
+    font-weight: bold;
+    letter-spacing: 7px;
+    transform: translate(-50%, -50%);
+}
